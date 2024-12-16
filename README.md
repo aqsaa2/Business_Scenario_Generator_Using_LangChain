@@ -1,2 +1,2 @@
 # Business_Scenario_Generator_Using_LangChain
-A Python-based project leveraging LangChain, Chroma, and HuggingFace models to generate user stories and business scenarios. 
+A Python-based project leveraging LangChain, Chroma, and HuggingFace models to generate user stories and business scenarios. This tool uses sentence-transformer embeddings for vector storage and retrieval, combined with a GPT-2 pipeline for generating detailed, context-aware responses. Ideal for brainstorming business scenarios, enhancing documentation workflows, and facilitating creative ideation for projects in domains like e-commerce, software development, and more.
